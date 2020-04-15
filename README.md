@@ -44,4 +44,4 @@ Having considered the aforementionned keypoints, and having iPhones, we decided 
 ### Aim:
 * Use Deep Learning algorithm/methods to maximize our performance in detecting objects.
 * Do it on IOS ecosystem
-*Provide a different point of view to tackle this plastic issue that seems to be more efficient ( according to our thoughts ahaha ! )
+* Provide a different point of view to tackle this plastic issue that seems to be more efficient ( according to our thoughts ahaha ! )
