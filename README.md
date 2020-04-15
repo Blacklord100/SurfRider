@@ -23,7 +23,7 @@ Merci,
 Author: Mithuran GAJENDRAN, Hugo MALLET
 
 
-# HI ! SURFRIDER PROJETC
+# HI ! SURFRIDER PROJECT
 
 ![](https://zupimages.net/up/19/09/1gz8.png)
 ![](https://raw.githubusercontent.com/m2dsupsdlclass/project-surfrider/master/imgs/surfrider.png)
