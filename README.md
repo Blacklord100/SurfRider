@@ -1,7 +1,7 @@
 # SurfRider
 Plastic Detection for an ONG
 
-### Quick Disclaimer
+### File user guide *(I know it is messy ...)*
 Bonjour, 
 
 Je n'ai malheureusement pas le temps de up le projet complétement en lfs sur git. Cependant, je vous partage le lien de mon drive sur lequel tout les fichiers sont présent:
@@ -23,7 +23,7 @@ Merci,
 Author: Mithuran GAJENDRAN, Hugo MALLET
 
 
-# HI ! 
+# HI ! SURFRIDER PROJETC
 
 ![](https://zupimages.net/up/19/09/1gz8.png)
 ![](https://raw.githubusercontent.com/m2dsupsdlclass/project-surfrider/master/imgs/surfrider.png)
